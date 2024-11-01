@@ -1,0 +1,14 @@
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/bin/Debug/net8.0/Inheritinca
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/bin/Debug/net8.0/Inheritinca.deps.json
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/bin/Debug/net8.0/Inheritinca.runtimeconfig.json
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/bin/Debug/net8.0/Inheritinca.dll
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/bin/Debug/net8.0/Inheritinca.pdb
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/obj/Debug/net8.0/Inheritinca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/obj/Debug/net8.0/Inheritinca.AssemblyInfoInputs.cache
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/obj/Debug/net8.0/Inheritinca.AssemblyInfo.cs
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/obj/Debug/net8.0/Inheritinca.csproj.CoreCompileInputs.cache
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/obj/Debug/net8.0/Inheritinca.dll
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/obj/Debug/net8.0/refint/Inheritinca.dll
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/obj/Debug/net8.0/Inheritinca.pdb
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/obj/Debug/net8.0/Inheritinca.genruntimeconfig.cache
+/Users/ahmetemreari/Desktop/InheritincaProject/Inheritinca/obj/Debug/net8.0/ref/Inheritinca.dll
